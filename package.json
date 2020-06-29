@@ -1,6 +1,6 @@
 {
   "name": "@nology/angular-test-simplifier",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Simplifies testing in angular/cli applications",
   "main": "dist/index.js",
   "scripts": {
@@ -53,5 +53,16 @@
   "dependencies": {
     "@angular/common": "^8.2.2",
     "@angular/platform-browser": "^8.2.2"
-  }
+  },
+  "keywords": [
+    "angular",
+    "test",
+    "testing",
+    "jasmine", 
+    "karma",
+    "simplify",
+    "simple",
+    "simplifier",
+    "configuration"
+  ]
 }
